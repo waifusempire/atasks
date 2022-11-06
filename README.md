@@ -1,3 +1,6 @@
+Install
+`pip install git+https://github.com/waifusempire/atasks.git`
+
 # Examples
 
 ```py
